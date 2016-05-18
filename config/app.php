@@ -91,11 +91,11 @@ return [
     |
     */
 
-    'key' => env('SomeRandomString'),
+    'key' => env('SomeRandomStringSomeRandomString'),
 
     /* I COMMENTED OUT LINE 97 */
-    //'cipher' => 'AES-256-CBC',
-    'cipher' => 'AES-128-CBC',
+    'cipher' => 'AES-256-CBC',
+    //'cipher' => 'AES-128-CBC',
 
     /*
     |--------------------------------------------------------------------------
