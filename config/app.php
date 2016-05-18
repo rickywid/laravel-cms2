@@ -91,7 +91,7 @@ return [
     |
     */
 
-    'key' => env('APP_KEY', 'SomeRandomString'),
+    'key' => env('SomeRandomStringSomeRandomString'),
 
     /* I COMMENTED OUT LINE 97 */
     'cipher' => 'AES-256-CBC',
