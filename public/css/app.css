@@ -1,0 +1,16 @@
+
+/*# sourceMappingURL=app.css.map */
+
+
+body {
+	padding: 0;
+}
+
+
+.form-reply-container {
+	display: none;
+}
+
+.page-header {
+	border-bottom: none;
+}
