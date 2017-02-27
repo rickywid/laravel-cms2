@@ -58,7 +58,7 @@ return [
             'database' => env('DB_DATABASE', database_path('database.sqlite')),
             'prefix' => '',
         ],
-/*
+
         'mysql' => [
             'driver' => 'mysql',
             'host' => $host,
@@ -72,8 +72,8 @@ return [
             'strict' => false,
             'engine' => null,
         ],
-*/
 
+/*
         'mysql' => [
             'driver' => 'mysql',
             'host' => $host,
@@ -88,7 +88,7 @@ return [
             'engine' => null,
         ],
 
-
+*/
 
         'pgsql' => [
             'driver' => 'pgsql',

@@ -11,7 +11,7 @@
 |
 */
 
-use Illuminate\Support\Facades\Auth;
+
 
 //root
 Route::get('/', ['uses'=>'PostsController@index']);
